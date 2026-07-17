@@ -33,6 +33,12 @@ Centralized logging is the foundation of any SOC's visibility into an environmen
 - Successfully forwarded and verified log events from the Ubuntu client to the centralized Kali rsyslog server
 - Identified and corrected two configuration errors in the source documentation that would have prevented log forwarding from working as described
 
+## Screenshots
+
+ ![Ubuntu client generating test log](./ubuntu-client-log-generated.jpg)
+
+   ![Kali server receiving forwarded log](./kali-server-log-received.jpg)
+
 ## What I learned
 
 Configuration-level troubleshooting is a big part of making any logging or SIEM pipeline actually work — small syntax issues (a missing `$`, a mistyped variable name) can silently break log forwarding without throwing an obvious error. Catching and correcting these gave me a much better appreciation for why log pipeline health checks are a standard part of SOC operational hygiene.
