@@ -2,7 +2,7 @@
 
 ## Contact
 
-LinkedIn: Zeke Bolt · Email: Ezekiel Holmes-Bolt
+[LinkedIn](https://www.linkedin.com/in/zeke-bolt-4841a1372/) · Email: Ezekiel Holmes-Bolt
 
 Aspiring SOC Analyst with hands-on experience in log management, network penetration testing, incident response documentation, and digital forensics. This portfolio documents practical labs completed as part of a cybersecurity bootcamp, focused on the skills most relevant to a SOC Tier 1 role: monitoring, triage, investigation, and clear technical communication.
 
